@@ -7,18 +7,18 @@ A structured roadmap to master **C++**, **Data Structures & Algorithms**, and **
 ---
 
 ## 📚 C++ Basics
-- [ ] Variables and Data Types
-- [ ] Input and Output (`cin`, `cout`)
-- [ ] Operators
-- [ ] Conditional Statements (`if`, `else`, `switch`)
-- [ ] Loops (`for`, `while`, `do-while`)
-- [ ] Functions
-- [ ] Pass by Value
-- [ ] Pass by Reference
-- [ ] References
-- [ ] Structs
-- [ ] `auto`
-- [ ] Range-Based Loops
+- [x] Variables and Data Types
+- [x] Input and Output (`cin`, `cout`)
+- [x] Operators
+- [x] Conditional Statements (`if`, `else`, `switch`)
+- [x] Loops (`for`, `while`, `do-while`)
+- [x] Functions
+- [x] Pass by Value
+- [x] Pass by Reference
+- [x] References
+- [x] Structs
+- [x] `auto`
+- [x] Range-Based Loops
 
 ---
 
