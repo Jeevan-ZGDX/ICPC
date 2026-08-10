@@ -23,20 +23,20 @@ A structured roadmap to master **C++**, **Data Structures & Algorithms**, and **
 ---
 
 ## 📦 C++ STL (Standard Template Library)
-- [ ] Vector
-- [ ] Pair
-- [ ] Tuple
-- [ ] Set
-- [ ] Multiset
-- [ ] Unordered Set
-- [ ] Map
-- [ ] Unordered Map
-- [ ] Stack
-- [ ] Queue
-- [ ] Deque
-- [ ] Priority Queue
-- [ ] Iterators
-- [ ] Common STL Algorithms
+- [x] Vector
+- [x] Pair
+- [x] Tuple
+- [x] Set
+- [x] Multiset
+- [x] Unordered Set
+- [x] Map
+- [x] Unordered Map
+- [x] Stack
+- [x] Queue
+- [x] Deque
+- [x] Priority Queue
+- [x] Iterators
+- [x] Common STL Algorithms
 
 ---
 
